@@ -2,6 +2,7 @@ from requests_html import HTMLSession
 import chompjs
 import itertools
 import pandas as pd
+import time
 
 base_url = "https://www.rei.com/"
 # "https://www.rei.com/search?json=true&page=2&q=bags"
@@ -32,8 +33,9 @@ if __name__ == "__main__":
     # print(fetch(1, "bags"))
     # print(another_fetch(1))
     # print(parseproduct(another_fetch(1)[0]))
-    df = pd.json_normalize(main())
-    df = df[["name", "description", "brand.name", "aggregateRating.ratingValue", "aggregateRating.reviewCount"]]
-    print(df.columns)
+    then = time.time()
+    df = pd.json_normalize(main())[["name", "description", "brand.name", "aggregateRating.ratingValue", "aggregateRating.reviewCount"]]
     df.to_csv("data/first.csv", index=False)
     print("DONE!!")
+    now = time.time()
+    print(f"IT TOOK {now - then}") # IT TOOK 26.350154161453247
