@@ -33,5 +33,7 @@ if __name__ == "__main__":
     # print(another_fetch(1))
     # print(parseproduct(another_fetch(1)[0]))
     df = pd.json_normalize(main())
+    df = df[["name", "description", "brand.name", "aggregateRating.ratingValue", "aggregateRating.reviewCount"]]
+    print(df.columns)
     df.to_csv("data/first.csv", index=False)
     print("DONE!!")
