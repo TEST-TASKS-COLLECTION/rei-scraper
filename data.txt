@@ -1,0 +1,14 @@
+{'url': 'https://www.rei.com/product/175364/rei-co-op-ditty-sack-set-of-3', 'title': 'REI Co-op Ditty Sack - Set of 3', 'price': '$19.95', 'rating': '4.7', 'reviewers': '24'}
+{'url': 'https://www.rei.com/product/195315/rei-co-op-stuff-travel-tote', 'title': 'REI Co-op Stuff Travel Tote', 'price': '$29.95', 'rating': '4.5', 'reviewers': '4'}
+{'url': 'https://www.rei.com/product/177061/rei-co-op-travel-organizer-medium', 'title': 'REI Co-op Travel Organizer - Medium', 'price': '$34.95', 'rating': '4.8', 'reviewers': '9'}
+{'url': 'https://www.rei.com/product/175323/rei-co-op-durable-stuff-sack', 'title': 'REI Co-op Durable Stuff Sack', 'price': '$8.95', 'rating': '4.9', 'reviewers': '60'}
+{'url': 'https://www.rei.com/product/158954/nite-ize-runoff-waterproof-wallet', 'title': 'Nite Ize RunOff Waterproof Wallet', 'price': '$25.00', 'rating': '4.3', 'reviewers': '19'}
+{'url': 'https://www.rei.com/product/189706/rei-co-op-link-shaped-stuff-sacks-set-of-2', 'title': 'REI Co-op Link Shaped Stuff Sacks - Set of 2', 'price': '$17.93', 'rating': '4.3', 'reviewers': '6'}
+{'url': 'https://www.rei.com/product/148187/cotopaxi-taal-convertible-tote-del-dia', 'title': 'Cotopaxi Taal Convertible Tote - Del Dia', 'price': '$55.00', 'rating': '4.7', 'reviewers': '476'}
+{'url': 'https://www.rei.com/product/196109/rei-co-op-pack-in-pack-out-pouches-set-of-3', 'title': 'REI Co-op Pack In Pack Out Pouches - Set of 3', 'price': '$24.95', 'rating': '4.8', 'reviewers': '8'}
+{'url': 'https://www.rei.com/product/187545/chrome-mini-kadet-sling-bag', 'title': 'Chrome Mini Kadet Sling Bag', 'price': '$75.00', 'rating': '5.0', 'reviewers': '1'}
+{'url': 'https://www.rei.com/product/118870/rei-co-op-pack-duffel-bag', 'title': 'REI Co-op Pack Duffel Bag', 'price': '$39.95', 'rating': '4.6', 'reviewers': '88'}
+{'url': 'https://www.rei.com/product/206708/cotopaxi-tago-drawstring-pack', 'title': 'Cotopaxi Tago Drawstring Pack', 'price': '$40.00', 'rating': '4.5', 'reviewers': '10'}
+{'url': 'https://www.rei.com/product/206939/fjallraven-high-coast-totepack', 'title': 'Fjallraven High Coast Totepack', 'price': '$70.00', 'rating': '5.0', 'reviewers': '1'}
+{'url': 'https://www.rei.com/product/207408/thule-compression-packing-cube-small', 'title': 'Thule Compression Packing Cube - Small', 'price': '$19.95', 'rating': '4.5', 'reviewers': '2'}
+{'url': 'https://www.rei.com/product/167664/rei-co-op-junction-top-tube-bag', 'title': 'REI Co-op Junction Top Tube Bag', 'price': '$29.95', 'rating': '4.5', 'reviewers': '59'}
